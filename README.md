@@ -13,8 +13,8 @@ wenycs4@gmail.com
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a>Project Stir </a></th> <!--tittle-->
-      <th width="50%" align="center"><a>Hopeless</a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Hoverbeat</a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Bluebell Town</a></th> <!--tittle-->
     </tr>
   </thead>
   <tbody>
@@ -48,8 +48,8 @@ wenycs4@gmail.com
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a>Shevia Fire VR</a></th> <!--tittle 3-->
-      <th width="50%" align="center"><a>Shevia AR</a></th> <!--tittle 4-->
+      <th width="50%" align="center"><a>Springbloom Harrow</a></th> <!--tittle 3-->
+      <th width="50%" align="center"><a>Carnival of Marigold</a></th> <!--tittle 4-->
     </tr>
   </thead>
   <tbody>
