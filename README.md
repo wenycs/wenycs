@@ -45,7 +45,7 @@ wenycs4@gmail.com
   <thead>
     <tr>
       <th width="50%" align="center"><a>Project Exonodus</a></th> <!--tittle 3-->
-      <th width="50%" align="center"><a>Carnival of Marigold</a></th> <!--tittle 4-->
+      <th width="50%" align="center"><a>No name (personal project)</a></th> <!--tittle 4-->
     </tr>
   </thead>
   <tbody>
@@ -58,8 +58,8 @@ wenycs4@gmail.com
       </td>
     </tr>
     <tr>
-      <td valign="text-top">Lorem Ipsum</td> <!--desc-->
-      <td valign="text-top">Lorem Ipsum</td> <!--desc-->
+      <td valign="text-top">This is a project I took on with a couple of friends. It's a 3D RPG game mainly inspired by Honkai Impact 3rd. I took part in programming the controls for the player, such as movement, weapon switch mechanic and shooting mechanic.</td> <!--desc-->
+      <td valign="text-top">One of my personal projects I worked on. I was inspired by...</td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="https://www.shevia.id/Product/SheviaFire">Read More</a></td> <!--link 3-->
