@@ -44,7 +44,7 @@ wenycs4@gmail.com
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a>Springbloom Harrow</a></th> <!--tittle 3-->
+      <th width="50%" align="center"><a>Project Exonodus</a></th> <!--tittle 3-->
       <th width="50%" align="center"><a>Carnival of Marigold</a></th> <!--tittle 4-->
     </tr>
   </thead>
