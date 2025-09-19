@@ -1,7 +1,7 @@
 Hi, I'm Weny 👋
 ---
 **📌About** <br>
-Hi, I'm Weny Cahyani Santoso, you may call me Weny. I'm a 6th semester GAT Student, aspiring to become a game programmer.
+Hi, I'm Weny Cahyani Santoso, you may call me Weny. I'm a 7th semester GAT Student, aspiring to become a game programmer.
 
 I’ve been building simple games using Unity and C# to develop my skills, and I’m excited to keep learning and growing in game development.
 
