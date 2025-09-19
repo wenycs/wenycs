@@ -33,6 +33,7 @@ wenycs4@gmail.com
     <tr>
       <td align="center"><a href="https://github.com/wenycs/Hoverbeat">Read More</a></td> <!--link1-->
       <td align="center"><a href="https://u2studio.itch.io/hopeless">Read More</a></td> <!--link2-->
+      <td align="center"><a href="https://arshad-zulfa.itch.io/hoverbeat">itch.io page</a></td>
     </tr>
   </tbody>
 </table>
