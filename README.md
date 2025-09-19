@@ -31,7 +31,7 @@ wenycs4@gmail.com
       <td valign="text-top">Bluebell town is a 2D sidescroller game where you play as a robot mc in a cute cardboard-like Steampunk dystopia. I took part as the main programmer, and so far mostly had worked on the moving mechanic, fighting mechanic, materials gathering,  health bar, and healing mechanic.</td> <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/fajarnadril/Project-Stir">Read More</a></td> <!--link1-->
+      <td align="center"><a href="https://github.com/wenycs/Hoverbeat">Read More</a></td> <!--link1-->
       <td align="center"><a href="https://u2studio.itch.io/hopeless">Read More</a></td> <!--link2-->
     </tr>
   </tbody>
