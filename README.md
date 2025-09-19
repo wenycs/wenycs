@@ -58,11 +58,11 @@ wenycs4@gmail.com
       </td>
     </tr>
     <tr>
-      <td valign="text-top">This is a project I took on with a couple of friends. It's a 3D RPG game mainly inspired by Honkai Impact 3rd. I took part in programming the controls for the player, such as movement, weapon switch mechanic and shooting mechanic.</td> <!--desc-->
+      <td valign="text-top">This is a project I took on with a couple of friends. It's a 3D RPG game mainly inspired by Honkai Impact 3rd. I took part in programming the controls for the player, such as movement, weapon switch mechanic and shooting mechanic. This project is still a work in progress at the moment.</td> <!--desc-->
       <td valign="text-top">One of my personal projects I worked on. I was inspired by...</td> <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="https://www.shevia.id/Product/SheviaFire">Read More</a></td> <!--link 3-->
+      <td align="center"><a href="https://github.com/Newihk/Project-Exonodus-Github">Read More</a></td> <!--link 3-->
       <td align="center"><a href="https://www.shevia.id/Product/SheviaAR">Read More</a></td> <!--link 4-->
     </tr>
   </tbody>
