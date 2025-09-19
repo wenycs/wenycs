@@ -27,7 +27,7 @@ wenycs4@gmail.com
       </td>
     </tr>
     <tr>
-      <td valign="text-top">Hoverbeat is a 2D cyber-themed rhythm game inspired by Muse Dash, where I took part as the main programmer. It’s currently work in progress as a capstone project, but so far I’ve coded the rhythm mechanic, scoring system, and designed the beatmap.</td> <!--desc-->
+      <td valign="text-top">Hoverbeat is a 2D cyber-themed rhythm game inspired by Muse Dash, where I took part as the main programmer. Hoverbeat twists the concept of Muse Dash and added a new mechanic, which is blocking notes.</td> <!--desc-->
       <td valign="text-top">Bluebell town is a 2D sidescroller game where you play as a robot mc in a cute cardboard-like Steampunk dystopia. I took part as the main programmer, and so far mostly had worked on the moving mechanic, fighting mechanic, materials gathering,  health bar, and healing mechanic.</td> <!--desc-->
     </tr>
     <tr>
